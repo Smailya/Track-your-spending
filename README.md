@@ -1,4 +1,4 @@
-# budget-tracker
+# track your spending
 
 In this series for Android development with Kotlin for beginners, you will learn how to make a budget tracker app from start to finish. you can :
 
